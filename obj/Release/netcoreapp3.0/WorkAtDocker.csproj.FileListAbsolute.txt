@@ -1,0 +1,10 @@
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\bin\Release\netcoreapp3.0\WorkAtDocker.exe
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\bin\Release\netcoreapp3.0\WorkAtDocker.deps.json
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\bin\Release\netcoreapp3.0\WorkAtDocker.runtimeconfig.json
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\bin\Release\netcoreapp3.0\WorkAtDocker.runtimeconfig.dev.json
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\bin\Release\netcoreapp3.0\WorkAtDocker.dll
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\bin\Release\netcoreapp3.0\WorkAtDocker.pdb
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\obj\Release\netcoreapp3.0\WorkAtDocker.AssemblyInfoInputs.cache
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\obj\Release\netcoreapp3.0\WorkAtDocker.AssemblyInfo.cs
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\obj\Release\netcoreapp3.0\WorkAtDocker.dll
+C:\Users\rpayc\source\repos\WorkAtDocker\WorkAtDocker\obj\Release\netcoreapp3.0\WorkAtDocker.pdb
